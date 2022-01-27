@@ -1,7 +1,7 @@
 function updateRate()
 {
 var rateval = document.getElementById("rate").value;
-document.getElementById("rate").innerText=rateval;
+document.getElementById("rateval").innerText=rateval;
 }
 
 function compute()
